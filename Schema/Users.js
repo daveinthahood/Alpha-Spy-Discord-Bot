@@ -1,4 +1,4 @@
-// Fiverr: https://www.fiverr.com/amirdev_78
+
 
 const mongoose = require('mongoose');
 
@@ -13,4 +13,3 @@ const Users = mongoose.Schema({
 
 module.exports = mongoose.model("user", Users);
 
-// Fiverr: https://www.fiverr.com/amirdev_78
