@@ -1,4 +1,4 @@
-// Fiverr: https://www.fiverr.com/amirdev_78
+
 
 const axios = require('axios').default;
 const { REST, Routes, Client, GatewayIntentBits, SlashCommandBuilder, parseWebhookURL, EmbedBuilder } = require('discord.js');

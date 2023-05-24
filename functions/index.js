@@ -1,4 +1,4 @@
-// Fiverr: https://www.fiverr.com/amirdev_78
+
 
 const dotenv = require('dotenv');
 dotenv.config();
